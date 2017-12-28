@@ -1,11 +1,11 @@
 # wangEditor-vue
 ### 基于大家的需要，特将代码整理出来，还有问题的话，可以一起加我的qq一起探讨（383583157）
 
-<template>
+`<template>
 		<div id="editor" >
 			<div v-html='box.environmental_certification'></div>
 		</div>
-</template>
+</template>`
 <script>
 	import wangeditor  from 'wangeditor';
 	export default{
