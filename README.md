@@ -6,6 +6,7 @@
 			<div v-html='box.environmental_certification'></div>
 		</div>
 </template>`
+```
 <script>
 	import wangeditor  from 'wangeditor';
 	export default{
@@ -104,5 +105,6 @@
 		}
 	}
 </script>
-<style scoped>
-</style>
+```
+`<style scoped>
+</style>`
